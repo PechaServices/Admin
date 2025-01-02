@@ -2,8 +2,8 @@
 name: Learning Card
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
-assignees: ''
+labels: Test Card
+assignees: ngawangtrinley
 
 ---
 
