@@ -7,44 +7,27 @@ assignees: ''
 
 ---
 
-## ཚོད་ལྟའི་བྱང་བུ།
+## Write Test Title Here
+*Test owner*: @_
 
-**ཚོད་ལྟའི་མིང་།:** ་་་་་་་་་་་་
-**ཚོད་ལྟ་བྱེད་མཁན།:** ་་་་་་་་་་་་
+## HYPOTHESIS
+*We believe that* [user]:
+*Need* [function]:
+*In order to* [benefit]: 
+*This will increase our North Star Metric by* [number]: 
 
+## TEST
+*To verify that, we will:*
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
 
-**༡༽ ཚོད་དཔག**
-ང་ཚོས་ཚོད་དཔག་བྱས་པ་ནི་་་་་་་་་་
+## METRIC
+*And measure:*
+- [ ] Metric 1
+- [ ] Metric 2
 
-
-**༢ ༽ ཚོད་ལྟ།**
-དེ་ར་སྤྲོད་བྱེད་པར་ང་ཚོས་་་་་་་་་་
-
-
-**༣ ༽ འཇལ་བྱེད།**
-ང་ཚོས་ཚད་འཇལ་རྒྱུ་ནི་་་་་་་་་་
-
-
-**༤ ༽ ཚད་འཛིན།**
-བདེན་པ་ར་སྤྲོད་ཀྱི་ཚད་འཛིན་ས་ནི་་་་་་་་་་
-
-## Test Card
-
-**Test name:**.........
-**Assigned to:**.........
-
-
-**1 HYPOTHESIS**
-We believe that.........
-
-
-**2 TEST**
-To verify that, We will.........
-
-
-**3 METRIC**
-And measure.........
-
-
-**4 CRITERIA**
-We are right if.........
+## CRITERIA
+*We are right if:*
+- [ ] Success criteria 1
+- [ ] Success criteria 2
